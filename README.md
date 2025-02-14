@@ -1,1 +1,9 @@
 # ozeloda
+
+OZEL ODA BOTU COK TANTANA YAPMA EKSIK VARSA EKLERSIN BEN BOTU CALISTIRDIM 0 HATA 
+HATA OLURSA EGER DC ISMIM ramalchavo.
+
+gorseller
+
+![image](https://cdn.discordapp.com/attachments/1214872936700317727/1340007600850337875/Ekran_goruntusu_2025-02-14_211059.png?ex=67b0cad4&is=67af7954&hm=2d517a2a1175f08958235d61dff91f99dc85d301ff1a9a61e79a0105cd81054b&)
+![image](https://cdn.discordapp.com/attachments/1214872936700317727/1340007786767061033/Ekran_goruntusu_2025-02-14_211154.png?ex=67b0cb00&is=67af7980&hm=1ce093edd464d4ced920c57dfa703518efb478be063ed5a212b9076ea70d167f&)
