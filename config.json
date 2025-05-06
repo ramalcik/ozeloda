@@ -1,0 +1,17 @@
+{
+    "prefix": "!",
+    "token": "MTM2ODI4Mj9Jn6qQstI",
+    "owners": ["490096318807801876"],
+    "mongoURI": "mongodb://localhost:27017/ozelodaa",
+    "BOTSESLA": "1330215000786337905",
+    "erkekrol": "1367590718058528938",
+    "kizrol": "1367590718046076965",
+    "karantina": "1367590718024974529",
+    "webPort": 3000,
+    "admin": {
+      "username": "admin",
+      "password": "admin123"
+  },
+  "guildId": "1367590717995749559"
+}
+  

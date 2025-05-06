@@ -1,0 +1,20 @@
+{
+    "name": "ozel-oda-bot",
+    "version": "1.0.0",
+    "description": "Discord özel oda botu (v14)",
+    "main": "ramalsikimsonikoda.js",
+    "scripts": {
+        "start": "node ramalsikimsonikoda.js",
+        "web": "node web/server.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.14.0",
+        "bcrypt": "^5.1.1",
+        "discord.js": "^14.11.0",
+        "ejs": "^3.1.10",
+        "express": "^4.21.2",
+        "express-session": "^1.18.1",
+        "mongoose": "^7.0.0",
+        "socket.io": "^4.8.1"
+    }
+}
